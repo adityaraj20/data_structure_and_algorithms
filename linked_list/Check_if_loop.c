@@ -30,7 +30,7 @@ last->next=t;
 last=t;
 }
 }
-int isLoop(sttruct Node *f)
+int isLoop(struct Node *f)
 {
   struct Node *p,*q;
   p=q=f;
