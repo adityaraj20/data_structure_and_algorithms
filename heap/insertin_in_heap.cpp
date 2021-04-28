@@ -3,7 +3,7 @@
 
 using namespace std;
  
-// Lecture based
+
 void InsertA(int A[], int n){
     int i = n;
     int temp = A[n];
